@@ -1,0 +1,36 @@
+#chart1{
+    display: block;
+    float: left;
+    border: 2px solid slategray;
+    margin: 2px;
+    padding: 5px;
+    width: 730px;
+    height: 400px;
+}
+#chart2{
+    display: block;
+    float: left;
+    border: 2px solid slategray;
+    margin: 2px;
+    padding: 5px;
+    width: 730px;
+    height: 400px;
+}
+#chart3{
+    display: block;
+    float: left;
+    border: 2px solid slategray;
+    margin: 2px;
+    padding: 5px;
+    width: 730px;
+    height: 400px;
+}
+#chart4{
+    display: block;
+    float: left;
+    border: 2px solid slategray;
+    margin: 2px;
+    padding: 5px;
+    width: 730px;
+    height: 400px;
+}
